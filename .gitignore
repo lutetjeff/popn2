@@ -1,0 +1,5 @@
+# firmware
+
+firmware/build/*
+firmware/.stm32env
+firmware/.vscode/*

@@ -6,7 +6,7 @@ version 2 of my personal pop'n music controller! we don't talk about version 1.
 ![Final Product](media/popn2_final.jpg)
 ![Internal Shot](media/popn2_internal.jpg)
 
-check out [media/44clear.mp4](media/44clear.mp4) to see me clearing my first 44 on this controller! 
+here is me clearing my first 44 on this controller: [video link](https://github.com/user-attachments/assets/4b452afc-de7f-416d-95ad-3e25626bb59a)
 
 ## Repository Hierarchy
 

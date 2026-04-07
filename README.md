@@ -50,3 +50,9 @@ There are also combined production files in `production/combined/` - beware that
 
 - **Illini Rhythm Syndicate** ([link](https://uiucirs.com))
 - **ECE OpenLab at UIUC** ([link](https://openlab.ece.illinois.edu/))
+
+## As Seen At
+
+- Rumble In The Prairie 15 (RIP 15) - [link](https://www.start.gg/tournament/rumble-in-the-prairie-15/details)
+- IRSCTF 2026 - [link](https://ctf.uiucirs.com/)
+- This controller is so awesome [they made a whole song about it](https://www.youtube.com/watch?v=c7E-tgmFuzw)
